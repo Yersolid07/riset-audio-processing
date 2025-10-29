@@ -1,0 +1,7 @@
+{
+  "name": "Aplikasi Riset Sampel Suara",
+  "description": "Aplikasi web untuk mengumpulkan sampel suara guna melatih model machine learning untuk transkripsi dan diarisasi audio. Pengguna dapat merekam suara mereka setelah memberikan informasi demografis dasar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
